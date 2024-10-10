@@ -1,0 +1,14 @@
+{
+    "curso": "DAM",
+    "participantes": [{
+            "horas": "6",
+            "id": "1",
+            "nombre": "Acceso a datos",
+            "nota": "8.45"
+        }, {
+            "horas": "6",
+            "id": "2",
+            "nombre": "Programación de servicios y procesos",
+            "nota": "9.0"
+        }]
+}

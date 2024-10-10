@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><empleados>
+    <empleado id="111">
+        <nombre>Marc</nombre>
+        <apellido>Zuckerberg</apellido>
+        <ciudad>Florida</ciudad>
+    </empleado>
+</empleados>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taburetes>
+    <taburete>
+        <nombre>Taburete arcade personalizado con diseño de Street Fighter Ryu y Ken</nombre>
+        <giro>360 grados y ajustable en altura</giro>
+        <baseYpie>de acero cromado</baseYpie>
+        <reposapies>cromado</reposapies>
+        <proteccion>antideslizante en la base</proteccion>
+        <acabado>alta calidad y muy firme</acabado>
+        <asiento>acolchado</asiento>
+        <altura>63 – 84 cm</altura>
+        <asiento2>35 cm</asiento2>
+        <base>39 cm</base>
+        <distancia>43 cm</distancia>
+        <pie>6 cm</pie>
+        <peso>4,8 kg</peso>
+        <material>Cuero sintético, acero cromado, plástico y tela</material>
+    </taburete>
+    <taburete>
+        <nombre>Taburete arcade personalizado con diseño de Street Fighter Ryu y Ken</nombre>
+        <giro>360 grados y ajustable en altura</giro>
+        <baseYpie>de acero cromado</baseYpie>
+        <reposapies>cromado</reposapies>
+        <proteccion>antideslizante en la base</proteccion>
+        <acabado>alta calidad y muy firme</acabado>
+        <asiento>acolchado</asiento>
+        <altura>50 – 72 cm</altura>
+        <asiento2>40 cm</asiento2>
+        <base>34 cm</base>
+        <distancia>30 cm</distancia>
+        <pie>5 cm</pie>
+        <peso>3,2 kg</peso>
+        <material>Cuero sintético, acero cromado, plástico y tela</material>
+    </taburete>
+    <taburete>
+        <nombre>Taburete arcade personalizado con diseño de Mario Bross</nombre>
+        <giro>360 grados y ajustable en altura</giro>
+        <baseYpie>de acero cromado</baseYpie>
+        <reposapies>cromado</reposapies>
+        <proteccion>antideslizante en la base</proteccion>
+        <acabado>de alta calidad y muy firme</acabado>
+        <asiento>acolchado</asiento>
+        <altura>20 – 45 cm</altura>
+        <asiento2>25 cm</asiento2>
+        <base>10 cm</base>
+        <distancia>22 cm</distancia>
+        <pie>3 cm</pie>
+        <peso>2,4 kg</peso>
+        <material>Cuero sintético, acero cromado, plástico y tela</material>
+    </taburete>
+</taburetes>
